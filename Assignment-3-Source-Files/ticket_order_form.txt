@@ -100,7 +100,8 @@
 						<label for="card_number">Card Number:</label>
 						<input type="text" name="number" id="number" accesskey="C" title="Must be in the 999-999-9999 format" placeholder="16 digits" pattern="\d{4}[\-]\d{4\d{4}[\-]\d{4}" required><br>
 
-				
+						<label for="card_number">Card Number:</label>
+						<input type="text" name="number" id="number" placeholder="16 digits"><br>
 						<label for="date">Expiration Date:</label>
 						<select name="month">  <!-- drop down menu for month-->
 							<option value="month">January</option>
